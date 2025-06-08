@@ -1,11 +1,11 @@
 [
    {
       "number":1,
-      "route":"CHS",
+      "route":"NIS",
       "front":1,
-      "frontid1":"rbxassetid://14298264539",
-      "controllerid1":"rbxassetid://14480582107",
+      "frontid1":"rbxassetid://139289885264047",
+      "controllerid1":"rbxassetid://115845642209521",
       "side":1,
-      "sideid1":"rbxassetid://14298264539"
+      "sideid1":"rbxassetid://139289885264047"
    }
 ]
